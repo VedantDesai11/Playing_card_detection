@@ -1,2 +1,2 @@
 # playing_cards_dataset
- A synthetic dataset created for playing card detection using YOLOv5 mode
+ A synthetic dataset created for playing cards to be used to train object detection models.
