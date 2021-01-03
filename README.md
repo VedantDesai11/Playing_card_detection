@@ -20,9 +20,9 @@
  Blog used to implement YOLOv5 on custom dataset: https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
 
 ## Training images created with labels look like this
-### Image
+### Image created
 ![alt text](https://github.com/VedantDesai11/playing_cards_dataset/blob/main/image_0000001.jpg)
-### Label
+### Label created
 35 0.12740384615384617 0.21153846153846156 0.057692307692307696 0.09134615384615385
 35 0.43149038461538464 0.41947115384615385 0.06009615384615385 0.0889423076923077
 9 0.7199519230769231 0.5348557692307693 0.0889423076923077 0.09375
