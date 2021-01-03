@@ -6,6 +6,9 @@
  Format for labels :- C2 (card name), 21 (topleft corner of box, x), 19 (topleft corner of box, y), 37 (box width), 102 (box height), C2.png  (image name), 317 (card width), 489 (card height)
  
  create_dataset.py will make thr dataset by the specifed dataset size and according to the size of cards and final image. 
+ 
+ YOLOv5_playing_cards.ipynb is the google colab code downloaded and can be used for training. 
+ Blog used to implement YOLOv5 on custom dataset: https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
 
 ## Training images created with labels look like this
 ### Image
