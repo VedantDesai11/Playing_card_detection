@@ -19,3 +19,6 @@
 ## Testing output looks like this
 ![alt text](https://github.com/VedantDesai11/playing_cards_dataset/blob/main/image_0000008.jpg)
 ![alt text](https://github.com/VedantDesai11/playing_cards_dataset/blob/main/image_0000027.jpg)
+
+# Texture Dataset used for random backgrounds
+M.Cimpoi, S. Maji, I. Kokkinos, S. Mohamed, A. Vedaldi, "Describing Textures in the Wild"
