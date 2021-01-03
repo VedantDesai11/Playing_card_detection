@@ -8,9 +8,14 @@
  create_dataset.py will make thr dataset by the specifed dataset size and according to the size of cards and final image. 
 
 ## Training images created with labels look like this
+### Image
 ![alt text](https://github.com/VedantDesai11/playing_cards_dataset/blob/main/image_0000001.jpg)
-
+### Label
 35 0.12740384615384617 0.21153846153846156 0.057692307692307696 0.09134615384615385
 35 0.43149038461538464 0.41947115384615385 0.06009615384615385 0.0889423076923077
 9 0.7199519230769231 0.5348557692307693 0.0889423076923077 0.09375
 9 0.6850961538461539 0.8990384615384616 0.08653846153846154 0.09134615384615385
+
+## Testing output looks like this
+![alt text](https://github.com/VedantDesai11/playing_cards_dataset/blob/main/image_0000008.jpg)
+![alt text](https://github.com/VedantDesai11/playing_cards_dataset/blob/main/image_0000027.jpg)
