@@ -1,6 +1,6 @@
 # WORKING
 
-![alt text](https://github.com/VedantDesai11/Playing_card_detection/blob/main/cards_detected.gif?raw=true)
+![alt text](https://github.com/VedantDesai11/Playing_card_detection/blob/main/cards_detected.gif.gif?raw=true)
 
 # playing_cards_dataset
  A synthetic dataset created for playing cards to be used to train object detection models.
